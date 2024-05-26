@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+
+.one{
+    /* //border: 2px double rgba(199, 45,80,1);
+    //display: flex; */
+    background-color: black;
+    color: darkmagenta;
+    font-size: 200px;
+    display: flex;
+    justify-content: center;
+    background-image: url(/abhi.jpg);
+    background-size:cover;
+    color: transparent;
+    -webkit-background-clip: text;
+    
+}
